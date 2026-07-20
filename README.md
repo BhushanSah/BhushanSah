@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bhushan Sah 👋</h1>
+<h1 align="center">Hi, I'm Bhushan Sah </h1>
 
 <p align="center">
   Computer Science and Mathematics student at Berea College<br>
